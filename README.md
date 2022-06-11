@@ -6,5 +6,5 @@ The goal is to predict the **RUL** of the components. Below, there are the steps
 
 ## Article related to the task
 
-[Predicting the Remaining Useful Life of Turbofan Engine](https://pub.towardsai.net/predicting-the-remaining-useful-life-of-turbofan-engine-f38a17391cac?sk=32f6f00a3f24c7fb4bf6082c51ba63ff)
+[Predicting the Remaining Useful Life of Turbofan Engine]()
 
